@@ -51,6 +51,8 @@ LOCAL_REQUIRED_MODULES := \
 	FontOdudaSourceOverlay \
 	FontReemKufiSourceOverlay \
 	FontSimpleDaySourceOverlay \
+	FontOneplusSlateSource \
+	FontSamsungOneSourceOverlay \
 	IconPackCircularAndroidOverlay \
 	IconPackCircularLauncherOverlay \
 	IconPackCircularSettingsOverlay \
