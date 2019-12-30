@@ -57,6 +57,8 @@ LOCAL_REQUIRED_MODULES := \
 	FontSimpleDaySourceOverlay \
 	FontOneplusSlateSource \
 	FontSamsungOneSourceOverlay \
+	FontNokiaPureSourceOverlay \
+	FontFifa2018SourceOverlay \
 	IconPackCircularAndroidOverlay \
 	IconPackCircularLauncherOverlay \
 	IconPackCircularSettingsOverlay \
