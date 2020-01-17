@@ -47,6 +47,9 @@ LOCAL_REQUIRED_MODULES := \
 	FontFucekSourceOverlay \
 	FontLemonMilkSourceOverlay \
 	FontComfortaaSourceOverlay \
+	FontExotwoSourceOverlay \
+	FontStoropiaSourceOverlay \
+	FontUbuntuSourceOverlay \
 	FontNotoSerifSourceOverlay \
 	FontRubikRubikOverlay \
 	FontOdudaSourceOverlay \
