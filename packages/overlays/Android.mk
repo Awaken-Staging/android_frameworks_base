@@ -51,9 +51,9 @@ LOCAL_REQUIRED_MODULES := \
 	FontStoropiaSourceOverlay \
 	FontUbuntuSourceOverlay \
 	FontNotoSerifSourceOverlay \
+	FontReemKufiSourceOverlay \
 	FontRubikRubikOverlay \
 	FontOdudaSourceOverlay \
-	FontReemKufiSourceOverlay \
 	FontSimpleDaySourceOverlay \
 	FontOneplusSlateSource \
 	FontSamsungOneSourceOverlay \
